@@ -92,9 +92,9 @@ Seguir creciendo como desarrollador web, especializándome en:
 
 ## 📫 Contacto
 
-- LinkedIn: [TU-LINKEDIN](https://www.linkedin.com/in/TU-LINKEDIN/)
+- LinkedIn: [TU-LINKEDIN]([https://www.linkedin.com/in/TU-LINKEDIN/](https://www.linkedin.com/in/omar-ignacio-torres/))
 - Email: **TU-CORREO**
-- GitHub: [@TU-USUARIO](https://github.com/TU-USUARIO)
+- GitHub: [@IgnacioMancilla](https://github.com/IgnacioMancilla)
 
 ---
 
