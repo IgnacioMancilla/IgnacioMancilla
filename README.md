@@ -1,18 +1,18 @@
 <h1 align="center">Hola, soy Omar Torres 👋</h1>
 
 <p align="center">
-  Desarrollador Frontend enfocado en <strong>accesibilidad</strong>, <strong>UI</strong> y desarrollo web moderno.
+  Desarrollador <strong>Frontend y Backend</strong> enfocado en <strong>accesibilidad</strong>, <strong>UI</strong> y desarrollo web moderno.
 </p>
 
 <p align="center">
-  <a href="https://github.com/TU-USUARIO">
-    <img src="https://img.shields.io/badge/GitHub-Perfil-181717?style=for-the-badge&logo=github">
+  <a href="https://github.com/IgnacioMancilla">
+    <img src="https://img.shields.io/badge/GitHub-Perfil-181717?style=for-the-badge&logo=github" alt="GitHub">
   </a>
-  <a href="https://www.linkedin.com/in/TU-LINKEDIN/">
-    <img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  <a href="https://www.linkedin.com/in/omar-ignacio-torres/">
+    <img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="mailto:TU-CORREO">
-    <img src="https://img.shields.io/badge/Email-Contacto-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+  <a href="mailto:Omartorresmancilla2001@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contacto-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
 
@@ -21,7 +21,7 @@
 ## 🚀 Sobre mí
 
 - Egresado de Ingeniería en Informática
-- Enfocado en desarrollo **Frontend**, accesibilidad web y experiencia de usuario
+- Enfocado en desarrollo **Frontend y Backend**, accesibilidad web y experiencia de usuario
 - Experiencia con interfaces modernas usando **Next.js**, **React**, **Tailwind CSS** y **TypeScript**
 - También trabajo con **Django**, **Supabase** y **PostgreSQL**
 - Interés en construir productos web claros, útiles y bien diseñados
@@ -74,9 +74,9 @@ Desarrollo de soluciones web conectando frontend moderno con backend robusto y b
 Seguir creciendo como desarrollador web, especializándome en:
 
 - Frontend profesional
+- Backend
 - Accesibilidad
 - UI/UX
-- Arquitectura de interfaces
 - Desarrollo de productos digitales con impacto real
 
 ---
@@ -84,15 +84,15 @@ Seguir creciendo como desarrollador web, especializándome en:
 ## 📊 Estadísticas
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=TU-USUARIO&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU-USUARIO&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=IgnacioMancilla&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgnacioMancilla&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 </p>
 
 ---
 
 ## 📫 Contacto
 
-- LinkedIn: [https://www.linkedin.com/in/omar-ignacio-torres/]([https://www.linkedin.com/in/TU-LINKEDIN/](https://www.linkedin.com/in/omar-ignacio-torres/))
+- LinkedIn: [omar-ignacio-torres](https://www.linkedin.com/in/omar-ignacio-torres/)
 - Email: **Omartorresmancilla2001@gmail.com**
 - GitHub: [@IgnacioMancilla](https://github.com/IgnacioMancilla)
 
