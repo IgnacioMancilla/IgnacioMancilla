@@ -81,11 +81,16 @@ Seguir creciendo como desarrollador web, especializándome en:
 
 ---
 
+
+
 ## 📊 Estadísticas
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=IgnacioMancilla&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgnacioMancilla&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <img src="https://raw.githubusercontent.com/IgnacioMancilla/IgnacioMancilla/main/github-metrics.svg" alt="GitHub Metrics" />
+</p>
+
+<p align="center">
+  <img src="https://hits.sh/github.com/IgnacioMancilla.svg?style=for-the-badge" alt="Visitas del perfil" />
 </p>
 
 ---
