@@ -81,20 +81,6 @@ Seguir creciendo como desarrollador web, especializándome en:
 
 ---
 
-
-
-## 📊 Estadísticas
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/IgnacioMancilla/IgnacioMancilla/main/github-metrics.svg" alt="GitHub Metrics" />
-</p>
-
-<p align="center">
-  <img src="https://hits.sh/github.com/IgnacioMancilla.svg?style=for-the-badge" alt="Visitas del perfil" />
-</p>
-
----
-
 ## 📫 Contacto
 
 - LinkedIn: [omar-ignacio-torres](https://www.linkedin.com/in/omar-ignacio-torres/)
