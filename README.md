@@ -20,7 +20,7 @@
 
 ## 🚀 Sobre mí
 
-- Egresado de Ingeniería en Informática
+- Ingenierío en Informática
 - Enfocado en desarrollo **Frontend y Backend**, accesibilidad web y experiencia de usuario
 - Experiencia con interfaces modernas usando **Next.js**, **React**, **Tailwind CSS** y **TypeScript**
 - También trabajo con **Django**, **Supabase** y **PostgreSQL**
